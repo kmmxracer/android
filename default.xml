@@ -26,6 +26,7 @@
   <project path="device/generic/goldfish" name="device/generic/goldfish" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
+  <project path="device/htc/msm8660-common" name="OpenSensation/android_device_htc_msm8660-common" />
   <project path="device/htc/pyramid" name="OpenSensation/android_device_htc_pyramid" />
   <project path="device/moto/common" name="CyanogenMod/android_device_moto_common" />
   <project path="device/moto/stingray" name="CyanogenMod/android_device_moto_stingray" />
@@ -182,7 +183,7 @@
   <project path="hardware/libhardware" name="intervigilium/android_hardware_libhardware" revision="ics-chocolate" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project path="hardware/msm7k" name="intervigilium/android_hardware_msm7k" revision="ics-test" />
-  <project path="hardware/qcom/display" name="intervigilium/android_hardware_qcom_display" revision="ics-chocolate" />
+  <project path="hardware/qcom/display" name="OpenSensation/android_hardware_qcom_display" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
   <project path="hardware/qcom/media" name="intervigilium/android_hardware_qcom_media" revision="ics-test" />
   <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
